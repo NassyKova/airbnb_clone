@@ -1,3 +1,3 @@
 Airbnb Clone
 </br>
-[Scrimba](wwww.scrimba.com)
+[Scrimba](https://wwww.scrimba.com)
