@@ -7,6 +7,14 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+.grey {
+    color: grey;
+}
+
+.bold {
+    font-weight: 600;
+}
+
 nav {
     height: 70px;
     display: flex;
@@ -38,4 +46,24 @@ nav {
     font-weight: 300;
     font-size: 16px;
     line-height: 110%;
+}
+
+.card {
+    width: 175px;
+    font-size: 12px;
+    padding: 0 20px;
+}
+
+.card--img {
+    width: 100%;
+    border-radius: 9px;
+}
+
+.card--stats {
+    display: flex;
+    align-items: center;
+}
+
+.card--star {
+    height: 14px;
 }
