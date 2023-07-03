@@ -9,7 +9,9 @@ function App() {
         return (
             <Card
                 key={item.key}
-                item={item}
+                // item={item} same as => in the app it would be props.item.openSpots
+                // spread syntax
+                {...item}
             />
         );
     });
